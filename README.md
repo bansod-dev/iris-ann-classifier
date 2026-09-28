@@ -6,7 +6,7 @@ The project includes data preprocessing, feature scaling, label encoding, ANN mo
 
 ## 🚀 Live Demo
 
-[Try the Iris Flower Classifier](iris-ann-classifier-fappvhzcuyux8appuwsrfpo.streamlit.app)
+[🌸 Try the Iris Classifier](https://iris-ann-classifier-fappvhzcuyux8appuwsrfpo.streamlit.app/)
 
 ## 📌 Project Overview
 
