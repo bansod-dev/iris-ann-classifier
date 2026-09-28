@@ -11,7 +11,7 @@ st.set_page_config(
 
 @st.cache_resource
 def load_model_and_objects():
-    model = load_model("ann.keras")
+    model = load_model("ANN.keras")
     scaler = joblib.load("scaler.pkl")
     encoder = joblib.load("encoder.pkl")
     return model, scaler, encoder
